@@ -89,6 +89,6 @@ Tupla: Usada em status e modalidades por ser imutável (protege valores fixos).
 
 ## Dificuldades e Aprendizados
 
-Durante o projeto tive dificuldade para entender como usar pilha dentro do dicionário do aluno e como gerenciar a fila FIFO sem adicionar todos os alunos automaticamente.
-Aprendi a importância da organização, dividir o código em vários arquivos ajudou muito na manutenção. Também melhorei bastante o uso de funções, dicionários e como eu exergava o jeito prático de FIFO e LIFO.
-me ajudou muito aprender a reutilizar funções como buscar_aluno_por_id() em várias partes do sistema. No final, o projeto me ajudou a entender bem os conceitos vistos nas aulas.
+- Durante o projeto tive dificuldade para entender como usar pilha dentro do dicionário do aluno e como gerenciar a fila FIFO sem adicionar todos os alunos automaticamente.
+- Aprendi a importância da organização, dividir o código em vários arquivos ajudou muito na manutenção. Também melhorei bastante o uso de funções, dicionários e como eu exergava o jeito prático de FIFO e LIFO.
+- Me ajudou muito aprender a reutilizar funções como `buscar_aluno_por_id()` em várias partes do sistema. No final, o projeto me ajudou a entender bem os conceitos vistos nas aulas.

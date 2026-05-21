@@ -64,28 +64,28 @@ Tupla: Usada em status e modalidades por ser imutável (protege valores fixos).
 ## Modularização
 # O projeto foi dividido em 4 arquivos:
 
-dados.py → Variáveis globais
-utils.py → Funções auxiliares
-tarefas.py → Regras de negócio
-main.py → Menu principal
+- dados.py → Variáveis globais
+- utils.py → Funções auxiliares
+- tarefas.py → Regras de negócio
+- main.py → Menu principal
 
 # Como Executar
-Tenha Python 3.10+ instalado
-Coloque todos os arquivos na mesma pasta
-Execute: python main.py
+- Tenha Python 3.10+ instalado
+- Coloque todos os arquivos na mesma pasta
+- Execute: python main.py
 
 ## Funcionalidades Implementadas
 # Obrigatórias:
 
-Cadastrar aluno (nome, modalidade, dias/semana, objetivo)
-Listar alunos ativos com status
-Fila de atendimento presencial (FIFO)
+- Cadastrar aluno (nome, modalidade, dias/semana, objetivo)
+- Listar alunos ativos com status
+- Fila de atendimento presencial (FIFO)
 
 # Bônus:
 
-Registrar check-in de treino
-Ver histórico de sessões (Pilha LIFO)
-Contar total de sessões por aluno
+- Registrar check-in de treino
+- Ver histórico de sessões (Pilha LIFO)
+- Contar total de sessões por aluno
 
 ## Dificuldades e Aprendizados
 

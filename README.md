@@ -55,8 +55,11 @@ aluno = {
 ```
 
 ## Lista e Tupla
+
+```python
 Lista: Usada em alunos = [] e fila_atendimento = [] por ser mutável.
 Tupla: Usada em status e modalidades por ser imutável (protege valores fixos).
+```
 
 ## Modularização
 # O projeto foi dividido em 4 arquivos:
